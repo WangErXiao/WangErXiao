@@ -12,7 +12,14 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
-![MyBatis](https://img.shields.io/badge/-MyBatis-000000?logo=mybatis&logoColor=white) <br>
+![MyBatis](https://img.shields.io/badge/-MyBatis-000000?logo=mybatis&logoColor=white) 
+![GPT](https://img.shields.io/badge/GPT-OpenAI-412991?logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Model-FFA500)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD43B?logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-Efficient%20LLM%20Inference-FFA500?logo=python&logoColor=white)
+<br>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical)
 
 ### GitHub Statistics 
