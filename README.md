@@ -17,10 +17,11 @@
 
 ### GitHub Statistics 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=WangErXiao&theme=dark)
+<!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=WangErXiao&theme=dark) -->
 ### Open Source Contributions 
 - [vllm](https://github.com/vllm-project/vllm) 
 
 ### Contact Me
-<img src="./images/Wechat.jpeg" alt="Wechat" width="200" />
-> "代码如诗，简洁而优雅。" - 无名氏
+<img src="./images/Wechat.jpeg" alt="Wechat:RoYaoRoYao" width="200" />
+
+> "Simplicity is the soul of efficiency." – Austin Freeman
