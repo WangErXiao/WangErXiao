@@ -39,8 +39,7 @@
 
 ### Contact Me
 <div>
-    <img align="left" src="./images/Wechat.png" alt="WechatID:RoYaoRoYao" width="150" />
-    <img src="./images/GiveMe.png" alt="GiveMeMoney" />
+    <img align="left" src="./images/Wechat.png" alt="WechatID:RoYaoRoYao" height="150" width="150" />
+    <img src="./images/GiveMe.png" alt="GiveMeMoney"  height="150"  width="150" />
 <div>
-
 > "Simplicity is the soul of efficiency." – Austin Freeman
