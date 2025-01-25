@@ -20,10 +20,14 @@
 ![vLLM](https://img.shields.io/badge/vLLM-Efficient%20LLM%20Inference-FFA500?logo=python&logoColor=white)
 <br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical) -->
 
 ### GitHub Statistics 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical)
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=WangErXiao&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical" />
+</div>
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical) -->
 <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=WangErXiao&theme=dark) -->
 ### Open Source Contributions 
 - [vllm](https://github.com/vllm-project/vllm) 
