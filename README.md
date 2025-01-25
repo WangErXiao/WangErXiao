@@ -13,13 +13,10 @@
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-000000?logo=mybatis&logoColor=white)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical)
 
 ### GitHub Statistics 
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical&height=180)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical&height=180)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical)
 
 ### Open Source Contributions 
 - [vllm](https://github.com/vllm-project/vllm) 
