@@ -34,8 +34,8 @@
 
 ---
 
-### Open Source Contributions 
-- [vllm](https://github.com/vllm-project/vllm) 
+<!-- ### Open Source Contributions 
+- [vllm](https://github.com/vllm-project/vllm)  -->
 
 ### Contact Me
 <img src="./images/Wechat.png" alt="Wechat:RoYaoRoYao" width="200" />
