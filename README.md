@@ -12,7 +12,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
-![MyBatis](https://img.shields.io/badge/-MyBatis-000000?logo=mybatis&logoColor=white)
+![MyBatis](https://img.shields.io/badge/-MyBatis-000000?logo=mybatis&logoColor=white) <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical)
 
 ### GitHub Statistics 
