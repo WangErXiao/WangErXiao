@@ -1,5 +1,5 @@
 👋 Hi, I'm Robin!<br>
-💻 A Java programmer<br>
+💻 A programmer<br>
 
 🌱 Currently learning large model technology
 
