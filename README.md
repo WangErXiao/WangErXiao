@@ -38,6 +38,6 @@
 - [vllm](https://github.com/vllm-project/vllm)  -->
 
 ### Contact Me
-<img src="./images/Wechat.png" alt="Wechat:RoYaoRoYao" width="200" />
+<img src="./images/Wechat.png" alt="Wechat:RoYaoRoYao" width="150" />
 
 > "Simplicity is the soul of efficiency." – Austin Freeman
