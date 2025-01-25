@@ -38,7 +38,7 @@
 
 ### Contact Me
 <div>
-    <img align="left" src="https://github.com/user-attachments/assets/089f89c0-c8c8-4a3e-ab48-600bab3d1fe7" alt="WechatID:RoYaoRoYao" height="150" width="150" />
-    <img src="https://github.com/user-attachments/assets/70ff4ea7-ceb4-4f08-9915-d00873cf2854" alt="GiveMeMoney"  height="150"  width="150" />
+    <img align="left" src="https://gitee.com/yzb/wangerxiao/raw/main/Wechat.png" alt="WechatID:RoYaoRoYao" height="150" width="150" />
+    <img src="https://gitee.com/yzb/wangerxiao/raw/main/GiveMe.png" alt="GiveMeMoney"  height="150"  width="150" />
 <div>
 
