@@ -1,5 +1,6 @@
 👋 Hi, I'm Robin!
 💻 A Java programmer
+
 🌱 Currently learning large model technology
 
 ### Tech Stack
@@ -15,9 +16,10 @@
 
 
 ### GitHub Statistics 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical)
-
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical&height=180)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical&height=180)
 
 ### Open Source Contributions 
 - [vllm](https://github.com/vllm-project/vllm) 
