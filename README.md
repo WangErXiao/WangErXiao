@@ -34,6 +34,10 @@
 
 ---
 
+> "Simplicity is the soul of efficiency." – Austin Freeman
+
+---
+
 <!-- ### Open Source Contributions 
 - [vllm](https://github.com/vllm-project/vllm)  -->
 
@@ -44,5 +48,3 @@
 <div>
 
 ---
-
-> "Simplicity is the soul of efficiency." – Austin Freeman
