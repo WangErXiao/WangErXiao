@@ -3,7 +3,7 @@
 
 🌱 Currently learning large model technology
 
-> 💡 "Simplicity is the soul of efficiency." – Austin Freeman
+💡 "Simplicity is the soul of efficiency." – Austin Freeman
 
 ---
 
@@ -28,8 +28,8 @@
 
 ### GitHub Statistics 
 <div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=WangErXiao&count_private=true&include_all_commits=true&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact" />
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=WangErXiao&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=tokyonight" />
 </div>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical) -->
 <!-- ![Trophy](https://github-profile-trophy.vercel.app/?username=WangErXiao&theme=dark) -->
