@@ -15,5 +15,5 @@
 - [vllm](https://github.com/vllm-project/vllm) 
 
 ### 趣味元素
-![WeChat](./images/Wechat.jpeg)
+<img src="./images/Wechat.jpeg" alt="Wechat" width="100" />
 > "代码如诗，简洁而优雅。" - 无名氏
