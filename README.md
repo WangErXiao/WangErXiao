@@ -1,7 +1,6 @@
 👋 你好，我是 Robin！
 - 💻 一名Java程序员
 - 🌱 目前正在学习vllm
-- 📫 如何联系我：863579016@qq.com
 
 ### 技术栈
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -16,5 +15,5 @@
 - [vllm](https://github.com/vllm-project/vllm) 
 
 ### 趣味元素
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+![WeChat](./images/Wechat.jpeg)
 > "代码如诗，简洁而优雅。" - 无名氏
