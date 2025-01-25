@@ -24,7 +24,7 @@
 
 ### GitHub Statistics 
 <div>
-  <img height="166" align="left" src="https://github-readme-stats.vercel.app/api?username=WangErXiao&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
+  <img height="164" align="left" src="https://github-readme-stats.vercel.app/api?username=WangErXiao&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical" />
 </div>
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical) -->
