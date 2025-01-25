@@ -1,9 +1,20 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical) ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WangErXiao&theme=merko)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WangErXiao&theme=dark) 
+👋 你好，我是 Robin！
+- 💻 一名Java程序员
+- 🌱 目前正在学习vllm
+- 📫 如何联系我：863579016@qq.com
+
+### 技术栈
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 
-<!---
-![Trophy](https://github-profile-trophy.vercel.app/?username=WangErXiao&theme=dark)
-WangErXiao/WangErXiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### GitHub 数据统计
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WangErXiao&layout=compact&theme=radical)
+
+
+### 开源贡献
+- [vllm](https://github.com/vllm-project/vllm) 
+
+### 趣味元素
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+> "代码如诗，简洁而优雅。" - 无名氏
