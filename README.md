@@ -1,5 +1,5 @@
-👋 Hi, I'm Robin!
-💻 A Java programmer
+👋 Hi, I'm Robin!<br>
+💻 A Java programmer<br>
 
 🌱 Currently learning large model technology
 
@@ -17,7 +17,7 @@
 
 ### GitHub Statistics 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WangErXiao&show_icons=true&theme=radical)
-
+![Trophy](https://github-profile-trophy.vercel.app/?username=WangErXiao&theme=dark)
 ### Open Source Contributions 
 - [vllm](https://github.com/vllm-project/vllm) 
 
