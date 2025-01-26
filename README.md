@@ -43,4 +43,4 @@
       <img src="https://gitee.com/yzb/wangerxiao/raw/main/GiveMe.png" alt="GiveMeMoney"  height="150"  width="150" />
   <div>
 
-- Join my Discord Server: [Invite Link](https://discord.gg/qzuqTnXy){:target="_blank"}
+- Join my Discord Server: <a href="https://discord.gg/qzuqTnXy" target="_blank">Invite Link</a>
