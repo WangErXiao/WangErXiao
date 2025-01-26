@@ -1,4 +1,4 @@
-👋 Hi, I'm Robin!<br>
+👋 Hi, I'm Robin! <img align="right" src="https://komarev.com/ghpvc/?username=WangErXiao" alt="Robin" /><br>
 💻 A programmer<br>
 🌱 Currently learning large model technology<br>
 
