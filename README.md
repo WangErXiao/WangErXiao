@@ -42,3 +42,5 @@
     <img src="https://gitee.com/yzb/wangerxiao/raw/main/GiveMe.png" alt="GiveMeMoney"  height="150"  width="150" />
 <div>
 
+- Discord: [robin001](https://discord.com/users/robin001)
+- Join my Discord Server: [Invite Link](https://discord.gg/qzuqTnXy)
