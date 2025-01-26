@@ -37,10 +37,11 @@
 - [vllm](https://github.com/vllm-project/vllm)  -->
 
 ### Contact Me
+- Wechat
+
 <div>
     <img align="left" src="https://gitee.com/yzb/wangerxiao/raw/main/Wechat.png" alt="WechatID:RoYaoRoYao" height="150" width="150" />
     <img src="https://gitee.com/yzb/wangerxiao/raw/main/GiveMe.png" alt="GiveMeMoney"  height="150"  width="150" />
 <div>
 
-- Discord: [Robin](https://discord.com/users/1235404427871916123)
 - Join my Discord Server: [Invite Link](https://discord.gg/qzuqTnXy)
