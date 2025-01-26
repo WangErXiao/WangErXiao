@@ -38,10 +38,9 @@
 
 ### Contact Me
 - Wechat
-
-<div>
-    <img align="left" src="https://gitee.com/yzb/wangerxiao/raw/main/Wechat.png" alt="WechatID:RoYaoRoYao" height="150" width="150" />
-    <img src="https://gitee.com/yzb/wangerxiao/raw/main/GiveMe.png" alt="GiveMeMoney"  height="150"  width="150" />
-<div>
+  <div>
+      <img align="left" src="https://gitee.com/yzb/wangerxiao/raw/main/Wechat.png" alt="WechatID:RoYaoRoYao" height="150" width="150" />
+      <img src="https://gitee.com/yzb/wangerxiao/raw/main/GiveMe.png" alt="GiveMeMoney"  height="150"  width="150" />
+  <div>
 
 - Join my Discord Server: [Invite Link](https://discord.gg/qzuqTnXy)
