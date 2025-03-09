@@ -43,5 +43,3 @@
       <!-- <img align="left" src="https://gitee.com/yzb/wangerxiao/raw/main/Wechat.png" alt="WechatID:RoYaoRoYao" height="150" width="150" /> -->
       <!-- <img src="https://gitee.com/yzb/wangerxiao/raw/main/GiveMe.png" alt="GiveMeMoney"  height="150"  width="150" /> -->
   <div>
-
-- Join my Discord Server: <a href="https://discord.gg/qzuqTnXy" target="_blank">Invite Link</a>
